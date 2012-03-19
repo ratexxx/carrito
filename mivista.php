@@ -9,6 +9,6 @@
         ?>
     </body>
 <?php
-	echo "<h1 align='center'>Mirá desde mi vistaaaaaaaaa!</h1>";
+	echo "<h1 align='center'>Mirá desde mi vista..!</h1>";
 ?>
 </html>
